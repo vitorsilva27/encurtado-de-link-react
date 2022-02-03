@@ -1,3 +1,7 @@
+# Home screen
+![image](https://user-images.githubusercontent.com/60737416/152431116-95b6ca64-6aca-44b2-93c3-a8e565306fc8.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
